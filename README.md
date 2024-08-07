@@ -38,7 +38,7 @@ Should the data be collected into a convincing format, it could also drive legis
 PTA organizations and individual schools should review the top performers who are able to spend less per student, but achieve above average performances from their students. Specifically, Figure 5 identifies a massive gap that must be closed to ensure students are both learning and granted more opportunities as an aggregate.
 
 # Video Demonstration Link
-[video](https://vimeo.com/995866501?share=copy)
+[Video Presentation](https://vimeo.com/995866501?share=copy)
 
 # Final Project Paper
 [Final Paper](https://github.com/jarrydallison/group7/blob/main/Group7_Colorado_Public_School_Academic_Performance_Part4.pdf)
