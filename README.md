@@ -40,3 +40,4 @@ PTA organizations and individual schools should review the top performers who ar
 # Video Demonstration Link
 
 # Final Project Paper
+[Final Paper](https://github.com/jarrydallison/group7/blob/main/Group7_Colorado_Public_School_Academic_Performance_Part4.pdf)
